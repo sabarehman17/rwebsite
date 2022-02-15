@@ -13,6 +13,7 @@ customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
+googleAnalytics = "UA-220447425-1"
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Fonts
