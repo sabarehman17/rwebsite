@@ -2,6 +2,16 @@
 author: Hugo Authors
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-220447425-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-220447425-1');
+</script>
+
 <!--
 This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
 
